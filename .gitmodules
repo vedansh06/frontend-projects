@@ -7,3 +7,6 @@
 [submodule "currency-convertor"]
 	path = currency-convertor
 	url = https://github.com/vedansh06/currency-convertor
+[submodule "theme-switcher"]
+	path = theme-switcher
+	url = https://github.com/vedansh06/theme-switcher
