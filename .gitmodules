@@ -4,3 +4,6 @@
 [submodule "password-generator"]
 	path = password-generator
 	url = https://github.com/vedansh06/password-generator
+[submodule "currency-convertor"]
+	path = currency-convertor
+	url = https://github.com/vedansh06/currency-convertor
