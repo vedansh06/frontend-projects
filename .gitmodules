@@ -13,3 +13,6 @@
 [submodule "react-router"]
 	path = react-router
 	url = https://github.com/vedansh06/react-router
+[submodule "currency-convertor02"]
+	path = currency-convertor02
+	url = https://github.com/vedansh06/currency-convertor02
