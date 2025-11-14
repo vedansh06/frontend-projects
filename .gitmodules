@@ -10,3 +10,6 @@
 [submodule "theme-switcher"]
 	path = theme-switcher
 	url = https://github.com/vedansh06/theme-switcher
+[submodule "react-router"]
+	path = react-router
+	url = https://github.com/vedansh06/react-router
