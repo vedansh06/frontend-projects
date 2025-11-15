@@ -16,3 +16,6 @@
 [submodule "currency-convertor02"]
 	path = currency-convertor02
 	url = https://github.com/vedansh06/currency-convertor02
+[submodule "redux-toolkit"]
+	path = redux-toolkit
+	url = https://github.com/vedansh06/redux-toolkit
