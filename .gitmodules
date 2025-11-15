@@ -19,3 +19,6 @@
 [submodule "redux-toolkit"]
 	path = redux-toolkit
 	url = https://github.com/vedansh06/redux-toolkit
+[submodule "spotify-clone"]
+	path = spotify-clone
+	url = https://github.com/vedansh06/spotify-clone
