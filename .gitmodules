@@ -22,3 +22,6 @@
 [submodule "spotify-clone"]
 	path = spotify-clone
 	url = https://github.com/vedansh06/spotify-clone
+[submodule "crypto-tracker"]
+	path = crypto-tracker
+	url = https://github.com/vedansh06/crypto-tracker
