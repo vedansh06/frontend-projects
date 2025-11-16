@@ -25,3 +25,6 @@
 [submodule "crypto-tracker"]
 	path = crypto-tracker
 	url = https://github.com/vedansh06/crypto-tracker
+[submodule "youtube-clone"]
+	path = youtube-clone
+	url = https://github.com/vedansh06/youtube-clone
