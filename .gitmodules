@@ -28,3 +28,6 @@
 [submodule "youtube-clone"]
 	path = youtube-clone
 	url = https://github.com/vedansh06/youtube-clone
+[submodule "netflix-clone"]
+	path = netflix-clone
+	url = https://github.com/vedansh06/netflix-clone
